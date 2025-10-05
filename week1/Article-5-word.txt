@@ -1,0 +1,5 @@
+Autonomous Networks / Autonomous Driving Networks (ADN)
+Network Optimization
+Generative AI (GenAI) / Large Language Models (LLMs)
+Service Assurance / Predictive Maintenance
+Network Security / Cybersecurity
