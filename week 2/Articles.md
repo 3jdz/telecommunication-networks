@@ -1,4 +1,4 @@
-# 📡 1. [Infrastructure-Wide and Intent-Based Networking Dataset for 5G-and-beyond AI-Driven Autonomous Networks](https://arxiv.org/pdf/2508.02314)
+# 📡 1. [Infrastructure-Wide and Intent-Based Networking Dataset for 5G-and-beyond AI-Driven Autonomous Networks](https://www.mdpi.com/1424-8220/24/3/783#)
 
 **Impact Factor**: Published in *Sensors* (MDPI), 2024. Journal Impact Factor ≈ **3.9**  
 **Keywords**: Autonomous Networks, Intent-Based Networking, 5G-and-Beyond, AI-Driven Management, Network Optimization  
@@ -6,15 +6,14 @@
 
 ---
 
-# 🚁 2. Need of UAVs and Physical Layer Security in Next-Generation Non-Terrestrial Wireless Networks
+# 🚁 2. [Need of UAVs and Physical Layer Security in Next-Generation Non-Terrestrial Wireless Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10824882)
 
 **Impact Factor**: Published in *IEEE Open Journal of Vehicular Technology*, 2025. Journal Impact Factor ≈ **3.6**  
-**Keywords**: UAV Communications, Physical Layer Security, Non-Terrestrial Networks, 6G, Security Challenges  
-**GitHub**: No dedicated GitHub repository found for this paper.
+**Keywords**: UAV Communications, Physical Layer Security, Non-Terrestrial Networks, 6G, Security Challenges
 
 ---
 
-# 📊 3. Evaluation Metrics and Methods for Generative Models in the Wireless PHY Layer
+# 📊 3. [Evaluation Metrics and Methods for Generative Models in the Wireless PHY Layer](https://arxiv.org/pdf/2408.00634)
 
 **Impact Factor**: Preprint on *arXiv* (2024). Not peer-reviewed, so **no impact factor**  
 **Keywords**: Generative Models, Wireless PHY Layer, Evaluation Metrics, Spectral Efficiency, Channel Modeling  
@@ -22,7 +21,7 @@
 
 ---
 
-# 🔁 4. Deep Learning in Physical Layer: Review on Data Driven End-to-End Communication Systems and Their Enabling Semantic Applications
+# 🔁 4. [Deep Learning in Physical Layer: Review on Data Driven End-to-End Communication Systems and Their Enabling Semantic Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10589475)
 
 **Impact Factor**: Preprint on *arXiv* (2024). **No impact factor**  
 **Keywords**: Deep Learning, End-to-End Communication, Semantic Communication, Wireless PHY, AI Optimization  
@@ -30,7 +29,7 @@
 
 ---
 
-# 🧠 5. Large AI Models for Wireless Physical Layer
+# 🧠 5. [Large AI Models for Wireless Physical Layer](https://arxiv.org/pdf/2508.02314)
 
 **Impact Factor**: Preprint on *arXiv* (2025). **No impact factor**  
 **Keywords**: Large AI Models, Wireless PHY, Foundation Models, Channel Prediction, Beamforming  
