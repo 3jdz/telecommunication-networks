@@ -1,4 +1,4 @@
-# 📡 1. Infrastructure-Wide and Intent-Based Networking Dataset for 5G-and-beyond AI-Driven Autonomous Networks
+# 📡 1. [Infrastructure-Wide and Intent-Based Networking Dataset for 5G-and-beyond AI-Driven Autonomous Networks](https://arxiv.org/pdf/2508.02314)
 
 **Impact Factor**: Published in *Sensors* (MDPI), 2024. Journal Impact Factor ≈ **3.9**  
 **Keywords**: Autonomous Networks, Intent-Based Networking, 5G-and-Beyond, AI-Driven Management, Network Optimization  
