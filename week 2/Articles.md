@@ -29,8 +29,5 @@
 
 ---
 
-# 🧠 5. [Large AI Models for Wireless Physical Layer](https://arxiv.org/pdf/2508.02314)
-
-**Impact Factor**: Preprint on *arXiv* (2025). **No impact factor**  
-**Keywords**: Large AI Models, Wireless PHY, Foundation Models, Channel Prediction, Beamforming  
-**GitHub**: Rich repository: [LAM4PHY_6G](https://github.com/AI4Wireless/LAM4PHY_6G)
+# 🩺📱 5. [Streamlining Wearable Data Integration for EHDS: A Case Study on Advancing Healthcare Interoperability Using Garmin Devices and FHIR](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1636775/full)
+**Impact Factor:** Published in Frontiers in Digital Health, 2025. Journal Impact Factor ≈ 4.0 **Keywords:** EHDS, FHIR, Garmin, PGHD, Wearable Devices, Healthcare Interoperability, Fitrockr GitHub: **GitHub**: No direct GitHub link provided , but a dataset in [apple_watch_fitbit_data_synthetic](https://github.com/syncora-ai/Fitness-Health-Tracking-Dataset/tree/main)
