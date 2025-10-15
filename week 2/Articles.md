@@ -43,3 +43,5 @@
 **Keywords**: EHDS, FHIR, Garmin, PGHD, Wearable Devices, Healthcare Interoperability, Fitrockr 
 
 **GitHub**: No direct GitHub link provided , but a dataset in [apple_watch_fitbit_data_synthetic]( (https://github.com/syncora-ai/Fitness-Health-Tracking-Dataset/tree/main)
+
+6
