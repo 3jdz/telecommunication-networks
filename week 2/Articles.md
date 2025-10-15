@@ -1,3 +1,7 @@
+# Physical layer security and autonomous networks
+
+------
+
 # 1. [Infrastructure-Wide and Intent-Based Networking Dataset for 5G-and-beyond AI-Driven Autonomous Networks](https://www.mdpi.com/1424-8220/24/3/783#)
 
 **Impact Factor**: Published in *Sensors* (MDPI), 2024. Journal Impact Factor ≈ **3.9**  
@@ -43,5 +47,3 @@
 **Keywords**: EHDS, FHIR, Garmin, PGHD, Wearable Devices, Healthcare Interoperability, Fitrockr 
 
 **GitHub**: No direct GitHub link provided , but a dataset in [apple_watch_fitbit_data_synthetic]( (https://github.com/syncora-ai/Fitness-Health-Tracking-Dataset/tree/main)
-
-6
