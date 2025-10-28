@@ -1,8 +1,5 @@
 # مجموعه مقالات ترجمه‌شده
 
-**مقاله اول**
-
-
 - [مجموعه داده‌های شبکه‌سازی مبتنی بر زیرساخت و هدف‌محور برای شبکه‌های خودگردان مبتنی بر هوش مصنوعی نسل پنجم و فراتر از آن](https://drive.google.com/file/d/1V6SJB-__nvBmCsrpQDCSk1XAX8DW7fqi/view?usp=sharing)
 
 - [فراسطح اطلاعات آشوبناک برای ارتباط امن مستقیم لایه فیزیکی](https://drive.google.com/file/d/1GBY8H7ifzgFg1E9eveppGqULdVgInrla/view?usp=sharing)
